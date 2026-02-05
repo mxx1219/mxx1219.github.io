@@ -167,9 +167,7 @@ body {
     font-size: 1.2rem;
     font-weight: 600;
     color: var(--text-primary);
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid var(--border-color);
+    margin-bottom: 16px;
 }
 
 .pub-intro {
@@ -239,9 +237,9 @@ body {
 }
 
 .author-highlight {
-    background-color: #f5f5f5;
+    background-color: #fef9e7;
     padding: 1px 4px;
-    border-radius: 2px;
+    border-radius: 6px;
 }
 
 .pub-venue {
@@ -395,7 +393,7 @@ body {
 .timeline-date {
     display: inline-block;
     padding: 2px 8px;
-    background: var(--bg-secondary);
+    background: #fef9e7;
     color: var(--text-muted);
     font-size: 0.75rem;
     font-weight: 500;
@@ -424,9 +422,8 @@ body {
 }
 
 .footer {
-    background: #d6e4f0;
+    background: transparent;
     border-radius: var(--radius-md);
-    box-shadow: var(--shadow-sm);
     padding: 24px;
     text-align: center;
 }
