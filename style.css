@@ -458,7 +458,9 @@ body {
 .clustrmaps {
     display: flex;
     justify-content: center;
-    min-height: 150px;
+    min-height: 200px;
+    width: 200px;
+    margin: 0 auto;
 }
 
 .clustrmaps-hint {
