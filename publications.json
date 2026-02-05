@@ -1,0 +1,132 @@
+[
+    {
+        "title": "An Empirical Study on LLM-based Agents for Automated Bug Fixing",
+        "authors": "Xiangxin Meng, Zexiong Ma, Pengfei Gao, Chao Peng*",
+        "venue": "48th International Conference on Software Engineering (ICSE)",
+        "year": 2026,
+        "note": "",
+        "doi": "",
+        "pdf": "",
+        "code": ""
+    },
+    {
+        "title": "Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling",
+        "authors": "Pengfei Gao, Zhao Tian, Xiangxin Meng, Xinchen Wang, Ruida Hu, Yuanan Xiao, Yizhou Liu, Zhao Zhang, Junjie Chen, Cuiyun Gao, Yun Lin, Yingfei Xiong, Chao Peng, Xia Liu",
+        "venue": "arXiv:2507.23370",
+        "year": 2025,
+        "note": "🏆 <a href=\"https://www.swebench.com/\" target=\"_blank\">Ranked #1 on SWE-bench Verified</a> | ⭐ 10.7k GitHub Stars",
+        "doi": "https://arxiv.org/abs/2507.23370",
+        "pdf": "https://arxiv.org/pdf/2507.23370",
+        "code": "https://github.com/bytedance/trae-agent"
+    },
+    {
+        "title": "Template-Guided Program Repair in the Era of Large Language Models",
+        "authors": "Kai Huang, Jian Zhang*, Xiangxin Meng, Yang Liu",
+        "venue": "47th International Conference on Software Engineering (ICSE)",
+        "year": 2025,
+        "note": "",
+        "doi": "https://ieeexplore.ieee.org/document/11029846/",
+        "pdf": "https://people.cs.umass.edu/~brun/class/2024Fall/CS692P/tgpr.pdf",
+        "code": ""
+    },
+    {
+        "title": "SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning",
+        "authors": "Zexiong Ma, Chao Peng*, Pengfei Gao, Xiangxin Meng, Yanzhen Zou, Bing Xie*",
+        "venue": "63rd Annual Meeting of the Association for Computational Linguistics (ACL)",
+        "year": 2025,
+        "note": "",
+        "doi": "https://aclanthology.org/2025.acl-long.559.pdf",
+        "pdf": "https://aclanthology.org/2025.acl-long.559.pdf",
+        "code": ""
+    },
+    {
+        "title": "AEGIS: An Agent-based Framework for General Bug Reproduction from Issue Descriptions",
+        "authors": "Xinchen Wang, Pengfei Gao, Xiangxin Meng, Chao Peng*, Ruida Hu, Yun Lin, Cuiyun Gao*",
+        "venue": "International Conference on the Foundations of Software Engineering, Industry Track (FSE Industry)",
+        "year": 2025,
+        "note": "",
+        "doi": "https://dl.acm.org/doi/10.1145/3696630.3728557",
+        "pdf": "https://dl.acm.org/doi/epdf/10.1145/3696630.3728557",
+        "code": ""
+    },
+    {
+        "title": "Element-Based Automated DNN Repair with Fine-Tuned Masked Language Model",
+        "authors": "Xu Wang, Mingming Zhang, Xiangxin Meng*, Jian Zhang, Yang Liu, Chunming Hu",
+        "venue": "International Conference on the Foundations of Software Engineering (FSE)",
+        "year": 2025,
+        "note": "",
+        "doi": "https://dl.acm.org/doi/10.1145/3715716",
+        "pdf": "https://dl.acm.org/doi/epdf/10.1145/3715716",
+        "code": "https://github.com/PGZXB/MLM4DNN"
+    },
+    {
+        "title": "Understanding Large Language Model Performance in Software Engineering: A Large-scale Question Answering Benchmark",
+        "authors": "Ruida Hu, Chao Peng, Jingyi Ren, Bo Jiang, Xiangxin Meng, Qinyun Wu, Pengfei Gao, Xinchen Wang, Cuiyun Gao*",
+        "venue": "48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)",
+        "year": 2025,
+        "note": "",
+        "doi": "https://dl.acm.org/doi/10.1145/3726302.3730262",
+        "pdf": "https://dl.acm.org/doi/epdf/10.1145/3726302.3730262",
+        "code": "https://github.com/kinesiatricssxilm14/CodeRepoQA"
+    },
+    {
+        "title": "MTL-TRANSFER: Leveraging Multi-task Learning and Transferred Knowledge for Improving Fault Localization and Program Repair",
+        "authors": "Xu Wang, Hongwei Yu, Xiangxin Meng*, Hongliang Cao, Hongyu Zhang, Hailong Sun, Xudong Liu, Chunming Hu",
+        "venue": "ACM Transactions on Software Engineering and Methodology (TOSEM)",
+        "year": 2024,
+        "note": "",
+        "doi": "https://dl.acm.org/doi/10.1145/3654441",
+        "pdf": "https://dl.acm.org/doi/epdf/10.1145/3654441",
+        "code": "https://github.com/MTL-CODE/MTL-TRANSFER"
+    },
+    {
+        "title": "An Empirical Study on Fine-tuning Large Language Models of Code for Automated Program Repair",
+        "authors": "Kai Huang, Xiangxin Meng, Jian Zhang*, Yang Liu, Wenjie Wang, Shuhao Li, Yuqing Zhang*",
+        "venue": "38th IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+        "year": 2023,
+        "note": "🏆 ACM SIGSOFT Distinguished Paper Award",
+        "doi": "https://dl.acm.org/doi/10.1109/ASE56229.2023.00181",
+        "pdf": "https://zhangj111.github.io/files/ASE23_APR_Study.pdf",
+        "code": "https://github.com/LLMC-APR/STUDY"
+    },
+    {
+        "title": "Template-based Neural Program Repair",
+        "authors": "Xiangxin Meng, Xu Wang*, Hongyu Zhang, Hailong Sun, Xudong Liu, Chunming Hu",
+        "venue": "45th International Conference on Software Engineering (ICSE)",
+        "year": 2023,
+        "note": "",
+        "doi": "https://doi.org/10.1109/ICSE48619.2023.00127",
+        "pdf": "https://github.com/mxx1219/TENURE/blob/main/paper.pdf",
+        "code": "https://github.com/mxx1219/TENURE"
+    },
+    {
+        "title": "Improving Vulnerability Detection with Hybrid Code Graph Representation",
+        "authors": "Xiangxin Meng, Shaoxiao Lu, Xu Wang*, Xudong Liu, Chunming Hu",
+        "venue": "30th Asia-Pacific Software Engineering Conference (APSEC)",
+        "year": 2023,
+        "note": "",
+        "doi": "https://dl.acm.org/doi/10.1145/3510003.3510147",
+        "pdf": "https://github.com/mxx1219/HybridNN/blob/main/apsec_2023_camera_ready_validation.pdf",
+        "code": "https://github.com/mxx1219/HybridNN"
+    },
+    {
+        "title": "Improving Fault Localization and Program Repair with Deep Semantic Features and Transferred Knowledge",
+        "authors": "Xiangxin Meng, Xu Wang*, Hongyu Zhang, Hailong Sun, Xudong Liu",
+        "venue": "44th International Conference on Software Engineering (ICSE)",
+        "year": 2022,
+        "note": "",
+        "doi": "https://doi.org/10.1145/3510003.3510147",
+        "pdf": "",
+        "code": "https://github.com/mxx1219/TRANSFER"
+    },
+    {
+        "title": "DreamLoc: A Deep Relevance Matching-based Framework for Bug Localization",
+        "authors": "Binhang Qi, Hailong Sun*, Wei Yuan, Hongyu Zhang, Xiangxin Meng",
+        "venue": "IEEE Transactions on Reliability",
+        "year": 2021,
+        "note": "",
+        "doi": "https://ieeexplore.ieee.org/document/9566596",
+        "pdf": "",
+        "code": "https://github.com/qibinhang/dream_loc"
+    }
+]
